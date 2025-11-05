@@ -1,3 +1,9 @@
 {
-  "UrlOP": "https://sigma-mdx-5e6997910a07.herokuapp.com"
+  "urls": [
+    "https://sigma-md-1.onrender.com",
+    "https://sigma-md-2.onrender.com", 
+    "https://sigma-md-3.onrender.com",
+    "https://sigma-md-4.onrender.com",
+    "https://sigma-md-5.onrender.com"
+  ]
 }
